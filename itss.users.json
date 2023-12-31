@@ -1,0 +1,519 @@
+[{
+  "_id": {
+    "$oid": "656d735f39cf9159142fbdb2"
+  },
+  "email": "nhatanh2552002@gmail.com",
+  "phone_number": "0029390425",
+  "user_name": "xd3011",
+  "password": "$2b$10$Oo9EO1teB8peb8xCcJbL1ebhWZQs1XaL/ZBgQAyRxbwTvyzVJm7wa",
+  "nickname": "nhatanh",
+  "createdAt": {
+    "$date": "2023-12-04T06:36:15.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T03:26:29.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f33f509c1eb2036eb083c"
+  },
+  "email": "anhatanh2552002@gmail.com",
+  "phone_number": "1234",
+  "user_name": "test",
+  "password": "",
+  "nickname": "test",
+  "createdAt": {
+    "$date": "2023-12-05T14:30:13.384Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T15:54:15.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657b13aab9022b49df7df338"
+  },
+  "email": "mr@gmail.com",
+  "phone_number": "abc@gmail.com",
+  "user_name": "123456",
+  "password": "$2b$10$6ahYEquGUuR2rE8GXqwggez/0OOpdqAnZZmet4Qo7Oy/7l8zdHmfm",
+  "nickname": "Dont Hurt",
+  "createdAt": {
+    "$date": "2023-12-14T14:39:38.706Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T14:39:38.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65806dd4e1fecf5ec49a94cd"
+  },
+  "email": "test@gmail.com",
+  "phone_number": "test1@gmail.com",
+  "user_name": "Hoang.123456",
+  "password": "$2b$10$OPwsPLT9kuBW3a5MjDe2DuXunInioVV.jaiGcCzmoLzQ9jwl/pLD.",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-18T16:05:40.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T16:05:40.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65806e8be1fecf5ec49a94d3"
+  },
+  "email": "test2",
+  "phone_number": "hoang01639356503@gmail.com",
+  "user_name": "Hoang.123456",
+  "password": "$2b$10$NvEPHn.IAqNUhWN2yDOuCelYNDlnuewU7YufmiYZWt1SODVZEcgI2",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-18T16:08:43.466Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T16:08:43.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65806eb3e1fecf5ec49a94dd"
+  },
+  "email": "test3",
+  "phone_number": "hoang01639356503@gmail.com",
+  "user_name": "Hoang.123456",
+  "password": "$2b$10$6h..UzC2Q7ft2nFxIdlmi.5JQaB5UKGcRITV.DPBQpvns94nWDIOy",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-18T16:09:23.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T16:09:23.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65806f9de1fecf5ec49a94e3"
+  },
+  "email": "hoang01639356503@gmail.com",
+  "phone_number": "0123456782",
+  "user_name": "test3",
+  "password": "",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-18T16:13:17.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T18:07:54.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658115a465a6166858e0e163"
+  },
+  "email": "hoang01639356503@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test4",
+  "password": "$2b$10$W1k4/RDn6ZnHnUvei23L9usiL0ccBEKCzqpJabHOPcCDPeR3ZvNW6",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-19T04:01:40.301Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T06:24:33.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581384e65a6166858e0f260"
+  },
+  "email": "hoang01639356503@gmail.com",
+  "phone_number": "0123456780",
+  "user_name": "test5",
+  "password": "$2b$10$Hm1CdEM6YW6PR9S9DpWeK.fiGxlDPR3t6.VDWzMyqPdajAk6nrO2K",
+  "nickname": "へへへ",
+  "createdAt": {
+    "$date": "2023-12-19T06:29:34.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-28T03:10:23.068Z"
+  },
+  "__v": 0,
+  "spending_limit_day": "100000",
+  "spending_limit_month": "2000000",
+  "spending_limit_year": "30000000"
+},
+{
+  "_id": {
+    "$oid": "6583b0e5f3e0e42dc89f2222"
+  },
+  "email": "nguyenxuanan05062000@gmail.com",
+  "phone_number": "0392569896",
+  "user_name": "An05",
+  "password": "$2b$10$rFr1x7c0UDvC0t95UP1rK.68hQ3sdYkOeGXP2wXM9aSzACSeDljte",
+  "nickname": "An05",
+  "createdAt": {
+    "$date": "2023-12-21T03:28:37.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-28T05:55:32.142Z"
+  },
+  "__v": 0,
+  "spending_limit_day": "101",
+  "spending_limit_month": "2000",
+  "spending_limit_year": "50000"
+},
+{
+  "_id": {
+    "$oid": "6583b0e5f3e0e42dc89f2224"
+  },
+  "email": "nguyenxuanan05062000@gmail.com",
+  "phone_number": "0392569896",
+  "user_name": "An05",
+  "password": "$2b$10$mWWw3BcNYRXI9.F0kGWsheofxuZr3h7C0QUubH7B5YkgbEc6LXIZ.",
+  "nickname": "An05",
+  "createdAt": {
+    "$date": "2023-12-21T03:28:37.086Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T03:28:37.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583cff4f3e0e42dc89f23a6"
+  },
+  "email": "hoangyu11c@gmail.com",
+  "phone_number": "0865803525",
+  "user_name": "Hoangyu11c",
+  "password": "$2b$10$sUyT9QDDugSfIV8GZZX.i.sSA3kA3jyQ1POyR3y6cA3slYFcn4Qx2",
+  "nickname": "UmR",
+  "createdAt": {
+    "$date": "2023-12-21T05:41:08.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T05:41:08.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583d84df3e0e42dc89f23db"
+  },
+  "email": "dientutanluong@gmail.com",
+  "phone_number": "0823234242",
+  "user_name": "hai",
+  "password": "$2b$10$/EMj1x4kiRjgcgA5OgEC3e.Ufc2zX8l2eU5ompZ7/GhR4F.GOT4nO",
+  "nickname": "dsfa",
+  "createdAt": {
+    "$date": "2023-12-21T06:16:45.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T06:16:45.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658410d8f3e0e42dc89f23f0"
+  },
+  "email": "Abc@gmail.com",
+  "phone_number": "0946026018",
+  "user_name": "Abc",
+  "password": "$2b$10$jUM8Stqc4F/6i7j82qMGT.v2uwpXwDQwXZghESW37NM3Rchdbh7eK",
+  "nickname": "Abc",
+  "createdAt": {
+    "$date": "2023-12-21T10:18:00.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T10:18:00.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a4d91a6ff52ce57a14068"
+  },
+  "email": "a",
+  "phone_number": "a",
+  "user_name": "a",
+  "password": "$2b$10$3Gx.26O1mhEkdmVXiMHyreJJiZGWbfMlL0Elk3wHo1n8eCa4xip3W",
+  "nickname": "a",
+  "createdAt": {
+    "$date": "2023-12-26T03:50:41.132Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T03:50:41.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a4d9ba6ff52ce57a1406a"
+  },
+  "email": "a",
+  "phone_number": "a",
+  "user_name": "a",
+  "password": "$2b$10$OiNmQ5xOG8nw.O0GMwalfuusecacxQM0/MiM50QdnRulIXCdDjdAe",
+  "nickname": "a",
+  "createdAt": {
+    "$date": "2023-12-26T03:50:51.181Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T03:50:51.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a4dafa6ff52ce57a1406c"
+  },
+  "email": "a",
+  "phone_number": "a",
+  "user_name": "a",
+  "password": "$2b$10$VhUjDy6hJd3uD3SG9hS.nOMD3RiY1rbMIDug5JQb3rmF5WS7afB1m",
+  "nickname": "a",
+  "createdAt": {
+    "$date": "2023-12-26T03:51:11.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T03:51:11.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a50f3a6ff52ce57a1406e"
+  },
+  "email": "hoang01639356503@gmail.com",
+  "phone_number": "",
+  "user_name": "acv3",
+  "password": "$2b$10$bloqw/K/oTqcKMR5.TM0xuwcH1iFo7e3jMp18PC1HQOahSHOSpMym",
+  "nickname": "avc",
+  "createdAt": {
+    "$date": "2023-12-26T04:05:07.698Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:05:07.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a5160a6ff52ce57a14070"
+  },
+  "email": "test15@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test15",
+  "password": "$2b$10$vGt3JR1GAwnQ2DQNEDsuOeHeMIErozTC8f66Qu09NJjOqKBANBxRm",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-26T04:06:56.758Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:06:56.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a51e1a6ff52ce57a14072"
+  },
+  "email": "test16@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test16",
+  "password": "$2b$10$JvetJyBu2Cpj78gleYyMJO7wY4ESPMUApSsTI6SVtfkPuIWgCcgXy",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-26T04:09:05.695Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:09:05.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a5201a6ff52ce57a14074"
+  },
+  "email": "admin@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test16",
+  "password": "$2b$10$t6YQcXPV6.EtzSpXuYmHgu1ftTvQZ.JVoTQNY5O62wpd3LLBQvsT.",
+  "nickname": "acv",
+  "createdAt": {
+    "$date": "2023-12-26T04:09:37.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:09:37.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a5204a6ff52ce57a14076"
+  },
+  "email": "admin@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test16",
+  "password": "$2b$10$erUq.UfoOaamR38M6qnF6en0Kcate6ftzJEpzd.vjCWa67D/CPttu",
+  "nickname": "acv",
+  "createdAt": {
+    "$date": "2023-12-26T04:09:40.848Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:09:40.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a5285a6ff52ce57a14078"
+  },
+  "email": "admin@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test16",
+  "password": "$2b$10$aH.o6EPT0XMCvyNSZM9Fn.gidyJckgicd0MDOUZDkMTXSclSUc50a",
+  "nickname": "acv",
+  "createdAt": {
+    "$date": "2023-12-26T04:11:49.391Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:11:49.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a52baa6ff52ce57a1407a"
+  },
+  "email": "test1@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test5",
+  "password": "$2b$10$RXD7aFhadtb3TmFUYmrIseEbrF3FK3i7OhEVA1koamAZTUViT6ozS",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-26T04:12:42.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:12:42.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a52faa6ff52ce57a1407c"
+  },
+  "email": "test5@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "test5",
+  "password": "$2b$10$hhJkd2q2HnPcMuFuR44etu9LkamnBTmUmuYefb/Ttz8c526PuAG1u",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-26T04:13:46.747Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:13:46.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a5338a6ff52ce57a14083"
+  },
+  "email": "admin@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "admin",
+  "password": "$2b$10$ZhaOntuDTERTg40/AfOe0eCeMrpW1AXIN/I4qKmbNixildMLkPI7C",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-26T04:14:48.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:14:48.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a535fa6ff52ce57a14085"
+  },
+  "email": "admin1@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "admin1",
+  "password": "$2b$10$QW3ejcvBCRATmnZA0bllu.jv1Bf.u3wfGPqHXDhZj1BJaN0IyHzLK",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-26T04:15:27.623Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T04:15:27.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bcea6a6ff52ce57a1453f"
+  },
+  "email": "hoangyu11c@gmail.com",
+  "phone_number": "0865803525",
+  "user_name": "Hoangyu11c",
+  "password": "$2b$10$jJbed4nxNT1JwCIsS9LlY./1Uzb3P6LLsG1jN.FwEYWoUrfNMdfcO",
+  "nickname": "Umaru2k2",
+  "createdAt": {
+    "$date": "2023-12-27T07:13:42.300Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:13:42.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bcf43a6ff52ce57a14546"
+  },
+  "email": "hoangyu11c@gmail.com",
+  "phone_number": "0865803524",
+  "user_name": "Hoangyu10a2",
+  "password": "$2b$10$EHhEi/isa6ZwNZNeM2gsXObcTJe/JSKMEX/mw2cNj.6i1GBHAJ7A.",
+  "nickname": "Umaru2k2",
+  "createdAt": {
+    "$date": "2023-12-27T07:16:19.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T12:35:52.950Z"
+  },
+  "__v": 0,
+  "spending_limit_day": "11",
+  "spending_limit_month": "12",
+  "spending_limit_year": "2023"
+},
+{
+  "_id": {
+    "$oid": "658cfa68a6ff52ce57a1479d"
+  },
+  "email": "あ@gmail.com",
+  "phone_number": "0123456789",
+  "user_name": "ああああ",
+  "password": "$2b$10$gSSv3hNWyCuCCdatLQl2Ee1Jo6n/3LP8kIS1d3/tf7nVpoZADab9q",
+  "nickname": "loditcodon",
+  "createdAt": {
+    "$date": "2023-12-28T04:32:40.144Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-28T04:32:40.144Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,815 @@
+[{
+  "_id": {
+    "$oid": "656f2fb8165b1d84ffb24783"
+  },
+  "title": "rent 2",
+  "amount": 300,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "__v": 0,
+  "user_id": "656d735f39cf9159142fbdb2"
+},
+{
+  "_id": {
+    "$oid": "656f2fbc165b1d84ffb24784"
+  },
+  "title": "rent 3",
+  "amount": 300,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f2fc1165b1d84ffb24785"
+  },
+  "title": "rent 4",
+  "amount": 300,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f2fc3165b1d84ffb24786"
+  },
+  "title": "rent 5",
+  "amount": 300,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656f2fc5165b1d84ffb24787"
+  },
+  "title": "rent 6",
+  "amount": 300,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65713817316ef109a5437825"
+  },
+  "user_id": "656f33f509c1eb2036eb083c",
+  "title": "test",
+  "amount": 220000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-03T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "abc",
+  "createdAt": {
+    "$date": "2023-12-07T03:12:23.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T03:12:23.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571447b316ef109a54378be"
+  },
+  "user_id": "656f33f509c1eb2036eb083c",
+  "title": "Cafe",
+  "amount": 10000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-02T17:00:00.000Z"
+  },
+  "category": "takeaways",
+  "description": "Via he coffe",
+  "createdAt": {
+    "$date": "2023-12-07T04:05:15.721Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T04:05:15.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571482e7c7e867d5cfbe2e5"
+  },
+  "user_id": "656d735f39cf9159142fbdb2",
+  "title": "quan ao",
+  "amount": 100,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-28T17:00:00.000Z"
+  },
+  "category": "clothing",
+  "description": "123",
+  "createdAt": {
+    "$date": "2023-12-07T04:21:02.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T04:21:02.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658075f3e1fecf5ec49a94ff"
+  },
+  "user_id": "65806f9de1fecf5ec49a94e3",
+  "title": "test",
+  "amount": 270000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-26T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "test",
+  "createdAt": {
+    "$date": "2023-12-18T16:40:19.231Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T16:40:19.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65807a768079b86108a0999c"
+  },
+  "user_id": "65806f9de1fecf5ec49a94e3",
+  "title": "test1",
+  "amount": 330000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-27T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "test1",
+  "createdAt": {
+    "$date": "2023-12-18T16:59:34.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T16:59:34.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65817ce69098908a2972231d"
+  },
+  "title": "rent 345",
+  "amount": 5500,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T04:42:18.349Z"
+  },
+  "__v": 0,
+  "user_id": "656d735f39cf9159142fbdb2"
+},
+{
+  "_id": {
+    "$oid": "6581824e5ca258ad2f77cd49"
+  },
+  "user_id": "65806f9de1fecf5ec49a94e3",
+  "title": "test1",
+  "amount": 330000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-27T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "test1",
+  "createdAt": {
+    "$date": "2023-12-19T16:59:34.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T16:59:34.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658182985ca258ad2f77cd4a"
+  },
+  "user_id": "656d735f39cf9159142fbdb2",
+  "title": "test1",
+  "amount": 330000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-27T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "test1",
+  "createdAt": {
+    "$date": "2023-12-19T16:59:34.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T16:59:34.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ac7f02cbb2dfe77a4e51"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "test1",
+  "amount": 270000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-17T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "test",
+  "createdAt": {
+    "$date": "2023-12-19T14:45:19.996Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T14:45:19.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582afb5409e562f4e34331c"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "a",
+  "amount": 270000,
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-02T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "a",
+  "createdAt": {
+    "$date": "2023-12-20T09:11:17.454Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:11:17.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b1c7409e562f4e343323"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "ab",
+  "amount": 470000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-26T17:00:00.000Z"
+  },
+  "category": "health",
+  "description": "a",
+  "createdAt": {
+    "$date": "2023-12-20T09:20:07.656Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:20:07.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b28f409e562f4e34332c"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "abc",
+  "amount": 590000,
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-04T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "abc",
+  "createdAt": {
+    "$date": "2023-12-20T09:23:27.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:23:27.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b2eb409e562f4e343331"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "acd",
+  "amount": 470000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-26T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "acd",
+  "createdAt": {
+    "$date": "2023-12-20T09:24:59.295Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:24:59.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b879409e562f4e343342"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "a",
+  "amount": 220000,
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-05T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "a",
+  "createdAt": {
+    "$date": "2023-12-20T09:48:41.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:48:41.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b907409e562f4e34334f"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "a",
+  "amount": 220000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-27T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "a",
+  "createdAt": {
+    "$date": "2023-12-20T09:51:03.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:51:03.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b930409e562f4e343352"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "aaaaa",
+  "amount": 590000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-26T17:00:00.000Z"
+  },
+  "category": "health",
+  "description": "aaaa",
+  "createdAt": {
+    "$date": "2023-12-20T09:51:44.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:51:44.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b942409e562f4e343355"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "aaaaaaaa",
+  "amount": 470000,
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-05T17:00:00.000Z"
+  },
+  "category": "health",
+  "description": "aaaaaaaaaa",
+  "createdAt": {
+    "$date": "2023-12-20T09:52:02.851Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:52:02.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582b95e409e562f4e343358"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "aaaaa",
+  "amount": 590000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-26T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "aaaaa",
+  "createdAt": {
+    "$date": "2023-12-20T09:52:30.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:52:30.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582ba7a409e562f4e343375"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "ac",
+  "amount": 470000,
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-05T17:00:00.000Z"
+  },
+  "category": "education",
+  "description": "ac",
+  "createdAt": {
+    "$date": "2023-12-20T09:57:14.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T09:57:14.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582d9d6409e562f4e3434a4"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "test",
+  "amount": 590000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-19T17:00:00.000Z"
+  },
+  "category": "health",
+  "description": "test",
+  "createdAt": {
+    "$date": "2023-12-20T12:11:02.284Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:11:02.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658316299fe3e4be3f7b7936"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "test",
+  "amount": 270000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-11-20T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "test",
+  "createdAt": {
+    "$date": "2023-12-20T16:28:25.551Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T16:28:25.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65831a0d9fe3e4be3f7b7949"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "abc",
+  "amount": 590000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-10-23T17:00:00.000Z"
+  },
+  "category": "subscriptions",
+  "description": "ac",
+  "createdAt": {
+    "$date": "2023-12-20T16:45:01.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T16:45:01.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583b1a2f3e0e42dc89f2259"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "Food",
+  "amount": 1000000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-02T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "Food",
+  "createdAt": {
+    "$date": "2023-12-21T03:31:46.830Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-21T03:31:46.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a63d1a6ff52ce57a140cb"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "Food",
+  "amount": 220000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-31T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "food",
+  "createdAt": {
+    "$date": "2023-12-26T05:25:37.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T05:25:37.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a7027a6ff52ce57a1426d"
+  },
+  "user_id": "6581384e65a6166858e0f260",
+  "title": "Food",
+  "amount": 270000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-30T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "food",
+  "createdAt": {
+    "$date": "2023-12-26T06:18:15.505Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T06:18:15.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd633a6ff52ce57a145b8"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "Expenses 1",
+  "amount": 10000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-13T17:00:00.000Z"
+  },
+  "category": "health",
+  "description": "healthdemo",
+  "createdAt": {
+    "$date": "2023-12-27T07:45:55.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:45:55.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd65fa6ff52ce57a145bb"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "Expenses 2",
+  "amount": 1000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-09-05T17:00:00.000Z"
+  },
+  "category": "other",
+  "description": "demo other",
+  "createdAt": {
+    "$date": "2023-12-27T07:46:39.421Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:46:39.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd685a6ff52ce57a145be"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "Expenses 3",
+  "amount": 1200,
+  "type": "expense",
+  "date": {
+    "$date": "2023-09-11T17:00:00.000Z"
+  },
+  "category": "takeaways",
+  "description": "demo takeaways",
+  "createdAt": {
+    "$date": "2023-12-27T07:47:17.885Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:47:17.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd6d9a6ff52ce57a145c9"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "demo4",
+  "amount": 12000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-10T17:00:00.000Z"
+  },
+  "category": "travelling",
+  "description": "travel",
+  "createdAt": {
+    "$date": "2023-12-27T07:48:41.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:48:41.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd729a6ff52ce57a145da"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "demo5",
+  "amount": 3450,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-14T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "demo",
+  "createdAt": {
+    "$date": "2023-12-27T07:50:01.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:50:01.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd74fa6ff52ce57a145e1"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "Subscriptions",
+  "amount": 1210,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-16T17:00:00.000Z"
+  },
+  "category": "subscriptions",
+  "description": "demo",
+  "createdAt": {
+    "$date": "2023-12-27T07:50:39.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:50:39.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658bd788a6ff52ce57a145e5"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "Clothing",
+  "amount": 12500,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-13T17:00:00.000Z"
+  },
+  "category": "clothing",
+  "description": "demo",
+  "createdAt": {
+    "$date": "2023-12-27T07:51:36.818Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T07:51:36.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658c1a11a6ff52ce57a146e0"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "DemoGroceries",
+  "amount": 2000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-21T17:00:00.000Z"
+  },
+  "category": "groceries",
+  "description": "demoGroceries",
+  "createdAt": {
+    "$date": "2023-12-27T12:35:29.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-27T12:35:29.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d1043a6ff52ce57a147fe"
+  },
+  "user_id": "658bcf43a6ff52ce57a14546",
+  "title": "demo",
+  "amount": 2000,
+  "type": "expense",
+  "date": {
+    "$date": "2023-12-27T17:00:00.000Z"
+  },
+  "category": "clothing",
+  "description": "demo",
+  "createdAt": {
+    "$date": "2023-12-28T06:05:55.841Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-28T06:05:55.841Z"
+  },
+  "__v": 0
+}]
