@@ -1,3 +1,5 @@
+fork of: https://www.youtube.com/watch?v=i0JesTevAcA
+
 Create file .env:
 PORT = 5000
 MONGO_URL=mongodb+srv://itss:1234@itss.mq2j5ls.mongodb.net/itss?retryWrites=true&w=majority
